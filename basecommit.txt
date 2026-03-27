@@ -48,3 +48,4 @@ base commit
 > still doing this. need to finish this one
 > im a bit sleepy but still managing to keep up 
 > 50th now
+Initializing base network interaction log
