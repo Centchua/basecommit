@@ -68,3 +68,4 @@ Updating dataset example
 Placeholder for future logs
 Writing random activity line
 Base guild participation log
+Recording engagement detail
